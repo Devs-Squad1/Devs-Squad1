@@ -1,5 +1,5 @@
 #### I am a Front-end Developer.
-I am a professional freelancer with two years of experience. I work in Fiverr. I like to work with new people. And also I like to take new challenge. I am very keen to get acquainted with the latest technology. I never compromise with my work. Because it carries my identity.
+I am a professional freelancer with three years of experience. I work in Fiverr. I like to work with new people. And also I like to take new challenge. I am very keen to get acquainted with the latest technology. I never compromise with my work. Because it carries my identity.
 
 Skills:  HTML / CSS/ BOOTSTRAP/ JQUERY/ REACT JS/ JAVASCRIPT/ FIREBASE/ MONGO DB/ NODE JS.
 
@@ -7,7 +7,7 @@ Skills:  HTML / CSS/ BOOTSTRAP/ JQUERY/ REACT JS/ JAVASCRIPT/ FIREBASE/ MONGO DB
 - 🌱 I’m currently learning Next js. 
 - 👯 I’m looking to collaborate on those who need help. 
 - 🤔 I’m looking for help with Google. 
-- 💬 Ask me about myself. 
+- 💬 Ask me about https://www.facebook.com/devsSqua/. 
 - 📫 How to reach me: devs.squad.fiverr@gmail.com 
 
 
