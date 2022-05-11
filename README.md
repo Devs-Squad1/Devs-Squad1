@@ -10,6 +10,8 @@ Skills:  HTML / CSS/ BOOTSTRAP/ JQUERY/ REACT JS/ JAVASCRIPT/ FIREBASE/ MONGO DB
 - 🤔 I’m looking for help with Google. 
 - 💬 Ask me about https://www.facebook.com/devsSqua/. 
 - 📫 How to reach me: devs.squad.fiverr@gmail.com 
+- 😄 Pronouns: devs 
+- ⚡ Fun fact: 🙂 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devs-Squad1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/devsSqua/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/devs_squad)  
